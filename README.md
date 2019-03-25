@@ -8,5 +8,7 @@ OSU Capstone Project - Winter 2019
  Team Rigel
  ----------
  Marisa Rea - codingmarisa@gmail.com
+ 
  Tucker Walker - tuckerdwalker@gmail.com
+ 
  David Pipitone - pipitond@oregonstate.edu
